@@ -1,4 +1,4 @@
-package com.company;
+package Array_Backtracking_Recurssion;
 
 
 import java.util.Scanner;
